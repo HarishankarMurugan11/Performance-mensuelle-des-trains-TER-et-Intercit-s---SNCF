@@ -51,8 +51,7 @@ Projet **pédagogique** : modélisation soignée, mesures **DAX**, design clair 
 
 ---
 
-## 📸 Captures d’écran
-> Remplacez les chemins si nécessaire (espaces encodés en `%20`).
+## 📸 Captures d’écran.
 - **Dashboard TER** :  
   <img width="2001" height="1126" alt="1e Tableau - 2" src="https://github.com/user-attachments/assets/fbab6b47-fd80-4865-b2f3-37ca68c07a3f" />
   <img width="580" height="583" alt="ss-3" src="https://github.com/user-attachments/assets/bb6598f2-b5a6-499d-8d44-1068a5a8758c" />
@@ -63,21 +62,6 @@ Projet **pédagogique** : modélisation soignée, mesures **DAX**, design clair 
 
 - **Carte des gares** :  
   <img width="2050" height="1150" alt="3e Tableau" src="https://github.com/user-attachments/assets/478ed77f-2db0-4c08-81b5-5fc66f7467be" />
-
-
----
-
-## 🚀 Prise en main
-1. **Installer** Power BI Desktop  
-2. **Cloner** le dépôt  
-3. **Ouvrir** les fichiers `.pbix` (TER / Intercités)  
-4. **Vérifier les sources** :
-   - Connexions Open Data → rafraîchir (Paramètres des sources)  
-   - Extracts locaux → mettre à jour les chemins dans **Power Query**
-5. **Rafraîchir** le modèle et **explorer**
-
----
-
 
 ---
 
@@ -99,14 +83,14 @@ Projet **pédagogique** : modélisation soignée, mesures **DAX**, design clair 
 ---
 
 ## 🔧 Stack
-**Power BI Desktop**, **Power Query**, **DAX**, **LaTeX**
+**Power BI Desktop**, **Power Query**, **DAX**, **Excel**.
 
 ---
 
 ## 📄 Licence & attributions
 - Code/doc : licence **MIT** (voir `LICENSE`)  
 - Données © **SNCF Open Data** — conditions d’utilisation propres aux jeux de données  
-- Logos : usage **identificatif** uniquement (droits réservés)
+- Logos : Téléchargé depuis Wikipédia, à des fins pédagogiques. Propriété de leurs propriétaires respectifs.
 
 ---
 
